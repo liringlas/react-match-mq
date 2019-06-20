@@ -1,0 +1,21 @@
+{
+  "name": "react-match-mq",
+  "version": "1.0.0",
+  "description": "Simple media query matching component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Ryzhov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theaklair/react-match-mq.git"
+  },
+  "dependencies": {
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.21"
+  }
+}
