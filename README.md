@@ -2,6 +2,7 @@
 
 ### Uses [React Hooks](https://reactjs.org/docs/hooks-reference.html)
 
+### IE10+ because of [window.matchMedia(...)](https://developer.mozilla.org/en/docs/Web/API/Window/matchMedia)
 
 Simple `true`/`false` rendering.
 
